@@ -3,3 +3,14 @@
 body{    
 font-family: 'Poppins', sans-serif;
 }
+.nav-container{
+    border: 2px solid red;
+    min-height: 20px;
+    display: flex;
+    /* justify-content: center; */
+    align-items:center
+}
+.nav-container img{
+    width: 90px;
+
+}
